@@ -1,0 +1,8 @@
+4-Data load using power BI
+ 4.1-Install MySQL
+ 4.2-Install Power BI
+ 4.3-Load data in MySQL
+ 4.4-Connect server with power BI
+
+
+5-Data transformation in Power Query
